@@ -26,7 +26,7 @@
 ![OpenShift](https://skillicons.dev/icons?i=openshift)
 ![Python](https://skillicons.dev/icons?i=py)
 ![React](https://skillicons.dev/icons?i=react)
-![TypeScript](https://skillicons.dev/icons?i=ts)]
+![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Unity](https://skillicons.dev/icons?i=unity)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 
