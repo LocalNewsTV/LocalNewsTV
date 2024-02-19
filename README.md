@@ -1,47 +1,50 @@
 # Hi, my name is Matthew
 
-### I bring ideas to life online
+## I bring ideas to life online
 
 <br>
 
-*I'm a full-stack developer creating exceptional digital experiences. I love systems thinking, gastronomy, continuous growth, and slow coffee. I'm a recent graduate from victoria, bc.*
+*I'm a full-stack web developer creating exceptional digital experiences. I love systems thinking, gastronomy, continuous growth, and slow coffee.*
 
+<br> 
 <br>
-<br>
 
-## Languages and Tools
+## Here are some things I work with
 
-<p>
-  
-![CSS](https://skillicons.dev/icons?i=css)
-![C#](https://skillicons.dev/icons?i=cs)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Emotionjs](https://skillicons.dev/icons?i=emotion)
+<!--Languages and Libraries -->
 ![HTML](https://skillicons.dev/icons?i=html)
-![Java](https://skillicons.dev/icons?i=java)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Markdown](https://skillicons.dev/icons?i=md)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![nodejs](https://skillicons.dev/icons?i=nodejs)
-![OpenShift](https://skillicons.dev/icons?i=openshift)
-![Python](https://skillicons.dev/icons?i=py)
+![CSS](https://skillicons.dev/icons?i=css)
 ![React](https://skillicons.dev/icons?i=react)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
-![Unity](https://skillicons.dev/icons?i=unity)
+![Emotionjs](https://skillicons.dev/icons?i=emotion)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Node.JS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Python](https://skillicons.dev/icons?i=py)
+![Django](https://skillicons.dev/icons?i=django)
+![C#](https://skillicons.dev/icons?i=cs)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Java](https://skillicons.dev/icons?i=java)
+![Swift](https://skillicons.dev/icons?i=swift)
+
+<!--Platforms and Architecture -->
+![Docker](https://skillicons.dev/icons?i=docker)
+![OpenShift](https://skillicons.dev/icons?i=openshift)
+![Arduino](https://skillicons.dev/icons?i=arduino)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Arduino](https://skillicons.dev/icons?i=arduino)
+![Raspberry Pi](https://skillicons.dev/icons?i=raspberripi)
+<!--Databases -->
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![DynamoDB](https://skillicons.dev/icons?i=dynamodb)
+<!--Tools -->
 ![VSCode](https://skillicons.dev/icons?i=vscode)
+![Markdown](https://skillicons.dev/icons?i=md)
+![nginx](https://skillicons.dev/icons?i=nginx)
+![Jest](https://skillicons.dev/icons?i=jest)
+![Unity](https://skillicons.dev/icons?i=unity)
 
-</p>  
-<!--
-**LocalNewsTV/LocalNewsTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
