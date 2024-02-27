@@ -33,8 +33,7 @@
 ![Arduino](https://skillicons.dev/icons?i=arduino)
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Linux](https://skillicons.dev/icons?i=linux)
-![Arduino](https://skillicons.dev/icons?i=arduino)
-![Raspberry Pi](https://skillicons.dev/icons?i=raspberripi)
+![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)
 <!--Databases -->
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
